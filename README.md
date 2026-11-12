@@ -16,7 +16,6 @@ for **World of Warcraft: Forever**. No other addons are required.
 
 Download the named addon ZIP from [Releases](https://github.com/Blazeflack/BlazeTweaks/releases)
 and extract the `BlazeTweaks/` folder into `Interface/AddOns`.
-Previous releases are available in the [original repository](https://github.com/Blazeflack/WoW-AddOns/releases).
 
 Open settings with `/bt` or `/blazetweaks` to enable the options you want and manage
 the container list. Changes take effect immediately.
